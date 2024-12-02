@@ -13,7 +13,7 @@
 
 using namespace std;
 
-
+/*papo non sa fare loop infiniti ovunque*/
 
 int x=10, y=10;
 
